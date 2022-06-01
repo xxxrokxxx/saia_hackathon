@@ -1,0 +1,12 @@
+name: hackathon-environment
+
+dependencies:
+  - python
+  - numpy
+  - toolz
+  - matplotlib
+  - pandas
+  - partd
+  - bokeh
+  - boto3
+ 
